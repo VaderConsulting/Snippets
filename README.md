@@ -1,15 +1,25 @@
 # Snippets
 
-Visual Studio C# snippet for #if Windows (shortcut #ifw).
+Visual Studio C# snippet that inserts or wraps a `#if Windows` / `#endif` pair. Shortcut is `#ifw`. Author in the snippet header is Dave Robinson. Drop the `.snippet` into the VS code-snippets folder to use it.
 
-## Contents
+**Language:** C#  
+**Target:** Visual Studio (code snippets)  
+**Output:** `.snippet` file
 
-- `pp_ifwindows.snippet`
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `pp_ifwindows.snippet` | C# | Visual Studio snippet | Expansion/surrounds-with for `#if Windows` (shortcut `#ifw`) |
+
+## How to open
+
+Copy `pp_ifwindows.snippet` into your Visual Studio C# snippets directory (or import via Tools → Code Snippets Manager).
 
 ## Attribution and provenance
 
-- No third-party source-code attribution markers were identified in assembly/package metadata.
+Author: Dave Robinson (snippet header). Historical Dev leftover (`Snippets`).
 
 ## License
 
-MIT. See `LICENSE`.
+MIT © 2026 VaderConsulting for Dave's code. See `LICENSE`.
