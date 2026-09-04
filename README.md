@@ -4,7 +4,8 @@ Visual Studio C# snippet that inserts or wraps a `#if Windows` / `#endif` pair. 
 
 **Language:** C#  
 **Target:** Visual Studio (code snippets)  
-**Output:** `.snippet` file
+**Output:** `.snippet` file  
+**Source last updated:** 2022-05-09
 
 ## Solution structure
 
