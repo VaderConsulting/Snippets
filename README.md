@@ -17,6 +17,10 @@ Visual Studio C# snippet that inserts or wraps a `#if Windows` / `#endif` pair. 
 
 Copy `pp_ifwindows.snippet` into your Visual Studio C# snippets directory (or import via Tools → Code Snippets Manager).
 
+## Requirements
+
+- Visual Studio (Code Snippets Manager)
+
 ## Attribution and provenance
 
 Author: Dave Robinson (snippet header). Historical Dev leftover (`Snippets`).
