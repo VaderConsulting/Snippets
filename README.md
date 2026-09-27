@@ -23,6 +23,8 @@ Copy `pp_ifwindows.snippet` into your Visual Studio C# snippets directory (or im
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Author: Dave Robinson (snippet header). Historical Dev leftover (`Snippets`).
 
 ## License
