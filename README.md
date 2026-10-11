@@ -29,4 +29,4 @@ Author: Dave Robinson (snippet header). Historical Dev leftover (`Snippets`).
 
 ## License
 
-MIT © 2026 VaderConsulting for Dave's code. See `LICENSE`.
+MIT © 2026 Vader Consulting for Dave's code. See `LICENSE`.
